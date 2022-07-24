@@ -1,1 +1,6 @@
 chainlink-volume/secret
+chainlink-volume/chainlink_debug.log
+chainlink-volume/apicredentials.txt
+chainlink-volume/password.txt
+.env
+database.env
